@@ -1,5 +1,3 @@
-# TREC_Precision_Medicine_Track
-TREC_Precision_Medicine
 # train_data_build.py->summary
 Cluster-based abstract extraction method
 # train_data_build.py->process_data_classify
